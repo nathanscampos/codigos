@@ -1,0 +1,76 @@
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grupos copa do mundo</title>
+</head>
+<body>
+    <h1>Grupos Copa do mundo 2022</h1>
+    <ol>
+        <h2>Grupo A</h2>
+        <li>Catar</li>
+        <li> Equador</li>
+        <li>Holanda</li>  
+        <li>Senegal</li>
+    </ol>
+    <ol>
+        <h2>Grupo B</h2>
+        <li>Estados Unidos</li>
+        <li>Inglaterra</li>
+        <li>Irã</li>  
+        <li>País de Gales</li>
+    </ol>
+    <ol>
+        <h2>Grupo C</h2>
+        <li>Argentina</li>
+        <li>Arábia Saudita</li>
+        <li>México</li>  
+        <li>Polônia</li>
+    </ol>
+    <ol>
+        <h2>Grupo D</h2>
+        <li>Austrália</li>
+        <li>Dinamarca</li>
+        <li>França</li>  
+        <li>Tunísia</li>
+    </ol>
+    <ol>
+        <h2>Grupo E</h2>
+        <li>Alemanha</li>
+        <li>Costa Rica</li>
+        <li>Espanha</li>  
+        <li>Japãoa</li>
+    </ol>
+    <ol>
+        <h2>Grupo E</h2>
+        <li>Alemanha</li>
+        <li>Costa Rica</li>
+        <li>Espanha</li>  
+        <li>Japãoa</li>
+    </ol>
+    <ol>
+        <h2>Grupo F</h2>
+        <li>Belgica</li>
+        <li>Canada</li>
+        <li>Marrocos</li>  
+        <li>Croácia</li>
+    </ol>
+    <ol>
+        <h2>Grupo G</h2>
+        <li>Brasil</li>
+        <li>Sérvia</li>
+        <li>Suiça</li>  
+        <li>Camarões</li>
+    </ol>
+    <ol>
+        <h2>Grupo H</h2>
+        <li>Portugal</li>
+        <li>Gana</li>
+        <li>Uruguai</li>  
+        <li>Coreia do Sul</li>
+    </ol>
+</body>
+</html>
