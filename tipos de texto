@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Conteúdo fraseado</title>
+</head>
+<body>
+
+    <h2> 1.</h2>
+    <p>Um texto em
+        <i>em itálico</i>
+    </p>
+
+    <h2>  2.</h2>
+    <p>Um texto em
+        <em>em itálico com ênfase.</em>
+    </p>
+   
+    <h2>   3.</h2>
+    <p>Um texto em
+        <b>em negrito</b>
+    </p>
+
+    <h2>    4.</h2>
+    <p>Um texto em
+        <strong>em negrito com enfâse</strong>
+    </p>
+
+<h2>        5.</h2>
+    <p> um texto com um
+        <mark> destaque</mark>extra
+    </p>
+
+<h2>         6.</h2>
+    <p> um texto com um
+        <s> risco</s>extra
+    </p>
+
+    <h2>      7.</h2>
+    <p> um texto
+        <sub> subescrito</sub>extra
+    </p>
+
+    <h2>      8.</h2>
+    <p> um texto de
+        <small> notas de rodapé</small>extra
+    </p>
+
+    <h2>    9.</h2>
+    <p> O nome do arquivo é
+        <code> index.html</code>extra
+    </p>
+
+
+    <h2>    10.</h2>
+    <p> um texto com
+          um &nbsp &nbsp espaçamento &nbsp extra
+    </p>
+
+    <h2>    11.</h2>
+    <p> um texto
+        <br>
+        <br>
+    pulo de linha
+    </p>
+
+    <h2>    12.</h2>
+    <p> um texto com antes da linha </p>
+    <hr>extra
+    <p>Um texto depois da linha </p>
+
+
+
+
+</body>
+</html>
